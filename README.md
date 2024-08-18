@@ -1,7 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A030B&center=true&vCenter=true&multiline=true&width=435&lines=Hey+Forks!+Subavarshana+is+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23356F&center=true&vCenter=true&multiline=true&width=435&lines=Hey!+Subavarshana+is+here...)](https://git.io/typing-svg)
 
-🔭 I’m currently a third-year undergraduate at the University of Moratuwa
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subu0106.subu0106" />
+
+🔭 I’m currently a third-year undergraduate at the University of Moratuwa, pursuing a Bachelor of Science in Computer Science and Engineering.
 <br>
 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science Stuffs...
 
@@ -9,9 +11,7 @@
 
 
 ## 👋 About Me
-Hello! I'm Subavarshana Arumugam, a passionate developer with a keen interest in creating impactful software solutions. I love coding and exploring new technologies.
-
-
+Hello! I'm Subavarshana Arumugam, a passionate developer with a keen interest in creating impactful software solutions. I love coding and exploring new technologies. 
 
 
 ## 📈 GitHub Stats
