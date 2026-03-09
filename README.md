@@ -3,7 +3,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subu0106.subu0106" />
 
-🔭 I’m currently a third-year undergraduate at the University of Moratuwa, pursuing a Bachelor of Science in Computer Science and Engineering.
+🔭 I’m currently a final-year undergraduate at the University of Moratuwa, pursuing a Bachelor of Science in Computer Science and Engineering.
 <br>
 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science Stuffs...
 
