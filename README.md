@@ -15,7 +15,7 @@ Hello! I'm Subavarshana Arumugam, a passionate developer with a keen interest in
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subu0106&show_icons=true&theme=radical)
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=subu0106&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 
 ## 💻 Technologies & Tools
@@ -57,10 +57,3 @@ Hello! I'm Subavarshana Arumugam, a passionate developer with a keen interest in
   <br/>
   <br/>
 </div>
-
-
-
-
-
-Thank you for visiting my profile! 🚀
-
